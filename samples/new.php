@@ -17,7 +17,6 @@ $num = $argv[1];
 
 foreach (new_fizz_buzz($num) as $value) {
     // don't do anything, just iterate through
-    // echo "$value\n";
 }
 
 $endTime = microtime(true);

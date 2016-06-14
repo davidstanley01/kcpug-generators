@@ -14,7 +14,7 @@ $startTime = microtime(true);
 $num = $argv[1];
 
 for ($i = 0; $i < $num; $i++) {
-    //
+    // don't do anything, just iterate through
 }
 
 $endTime = microtime(true);
